@@ -1,6 +1,8 @@
 # Elitebook-850-G2-Hackintosh
 Installing and using MacOs Catalina on HP Elitebook 850 G2 (Broadwell)
 
+![Screen1](https://i.imgur.com/5MixI3H.jpg)
+
 Hello! I got tired of using Windows for my work, and I decided to install the hackintosh.
 
 My laptop is HP Elitebook 850 G2 (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB Intel Pro SSD)
