@@ -85,4 +85,7 @@ USB Port | ✅
 3. Click 'Next'
 4. Countiniue to installing mac os.
 
-**Laptop may reboot a few times, after every reboot choose in clover 'Boot from your drive' NOT FLASH DRIVE!**
+**Laptop may reboot a few times, after every reboot choose in clover 'Boot from your drive', NOT FLASH DRIVE!**
+
+## [Post-Install (clickable)](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/postinstall.md)
+![ww](https://i.imgur.com/qROpL1b.jpg)

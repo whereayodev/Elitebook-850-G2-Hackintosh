@@ -38,6 +38,7 @@ Now, copy [Clover Files](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/
 ![d](https://i.imgur.com/wVWpVnT.jpg)
 After this go to **Clover Configurator** and open ***config.plist***
 ![cc](https://i.imgur.com/MheWve4.jpghttps://i.imgur.com/MheWve4.jpg)
+## SMBIOS setup
 Next - go to SMBIOS menu and **press the button with arrows**
 ![2](https://i.imgur.com/d0le5se.jpg)
 Choose most same config with your device ***(Screen diagonal not important)***
