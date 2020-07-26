@@ -41,6 +41,9 @@ bios settings
 ## Setup
 
 1. Open Disk Utility
-2. Format your Drive at APPFS
+2. Format your Drive at APFS & GUID partition table
 ![img_format](https://i.imgur.com/t7FseKX.jpg)
-3. 
+3. Click 'Next'
+4. Countiniue to installing mac os.
+
+**Laptop may reboot a few times, after every reboot choose in clover 'Boot from your drive' NOT FLASH DRIVE!**
