@@ -29,7 +29,8 @@ My laptop is **HP Elitebook 850 G2** (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB
 
 - Sleep mode
 - WIFI **(50\50)**
-- AIRDROP\HANDOFF\COUNTINIUTY
+- Airdrop\Handoff\Countiniuty (All works, like native, with BCM94352Z)
+- FaceTime, iMessage (I'm so lazy to find work's S\N, but it's possible)
 
 # Installation
 
