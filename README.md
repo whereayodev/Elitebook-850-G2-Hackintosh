@@ -85,3 +85,6 @@ My laptop is **HP Elitebook 850 G2** (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB
 
 [My dsdt (not perfect)](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/tree/master/Clover%20files/CLOVER/ACPI)
 
+# Write me if you know how to fix sleep
+[My telegram](httpsL//t.me/nkngnkng)
+
