@@ -11,5 +11,5 @@ In your torrent app chose  Catalina files.
 ## Writing MacOs to Flah drive
 
 After you download MacOs in download folder you can find "BDU" app
-
-Open it
+Use [this manual](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/BDU_FAQ_STARCOM_V2.0.pdf
+) for write macOs image to your flash drive
