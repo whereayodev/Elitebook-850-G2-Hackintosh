@@ -7,6 +7,8 @@ My laptop is HP Elitebook 850 G2 (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB Int
 
 # Мануал на русском
 
+Скоро.
+
 # Current Issues
 
 - Sleep mode
@@ -14,6 +16,8 @@ My laptop is HP Elitebook 850 G2 (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB Int
 - AIRDROP\HANDOFF\COUNTINIUTY
 
 # Installation
+
+[Installation.md](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/Installation.md)
 
 # Kexts
 
