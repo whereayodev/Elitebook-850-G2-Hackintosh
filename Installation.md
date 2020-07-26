@@ -28,7 +28,63 @@ Clone my files to your clover folder (Clover_partition\EFI\CLOVER\)
 
 ## BIOS Settings
 
-bios settings
+**Boot options**
+Startup Menu Delay - 0 sec.
+Multiboot Express Popup Delay - 0 sec.
+
+**Disable all checkboxes, except this:**
+
+Fast boot - ✅ 
+USB device boot - ✅
+Pcie/M.2 SSD boot - ✅
+
+User mode - HP Factory Keys
+Boot mode - UEFI Hybrid (With CSM)
+
+**Device Configurations**
+
+**Disable all checkboxes, except this:**
+
+Fn+(F1+F12) Key switch - ✅
+USB legacy support - ✅
+USB 3.0 (XHCI) - ✅
+
+Video memory size:
+Minimum - 128mb, i’m choose - 256
+
+Data execution prevention - ✅
+
+Max SATA Speed - 6.0 Gbps
+**SATA Device mode - AHCI**
+
+USB Charging port - ✅ (not important, but it’s useful)
+
+Hybrid graphics - ❌ (not working on hackintosh)
+
+Smart card reader power setting - Powered on if card is present
+
+Deep sleep - ON ✅
+
+Built-in Device Options 
+
+Wireless button state - ✅
+Embedded  WWAN device - ✅ (LTE-modem)
+WWAN Quick connect - ✅
+Embedded WLAN device - ✅ (WIFI)
+Embedded Bluetooth device - ✅
+Embedded LAN controller - ✅
+
+Integrated Camera - ✅ 
+Audio device - ✅
+Microphone - ✅
+Speakers and headphones - ✅
+PciE/M.2 SSD - ✅
+
+**Port options**
+
+USB Port - ✅
+
+
 
 ## Booting
 
