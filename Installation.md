@@ -25,6 +25,7 @@ Use [this manual](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/ma
 
 For sucsessful boot you need replace some files from my repo to your clover folder
 Clone my files to your clover folder (Clover_partition\EFI\CLOVER\)
+My config version is **CLOVER v5120**
 
 ## BIOS Settings
 Option | Check
