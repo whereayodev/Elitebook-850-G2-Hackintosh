@@ -20,7 +20,8 @@ My laptop is **HP Elitebook 850 G2** (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB
 
 # Installation
 
-[Installation.md](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/Installation.md)
+Installation is easy, if you use my tutuorial
+[Installation tutorial](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/Installation.md)
 
 # Kexts
 
