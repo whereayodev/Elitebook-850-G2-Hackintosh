@@ -12,6 +12,19 @@ My laptop is **HP Elitebook 850 G2** (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB
 
 Скоро.
 
+# Works
+
+- BT **(Low range)**
+- WIFI **(50/50)**
+- LTE **(Not checked, but it seems in system)**
+- Touchpad & Keyboard
+- USB 3.0
+- Brightness
+- Hardware buttons **(Mute sound, airplane mode)**
+- Sound **(Native Apple ALC)**
+- Shortcuts **(fn+f1-f10)**
+- Intel **QuickSync**
+
 # Current Issues
 
 - Sleep mode
@@ -25,4 +38,8 @@ Installation is easy, if you use my tutuorial
 
 # Kexts
 
+List of kexts
+
 # DSDT
+
+My dsdt (not perfect)
