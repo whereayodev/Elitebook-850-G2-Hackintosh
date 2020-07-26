@@ -9,11 +9,11 @@ You need 8gb drive at least to write Catalina image and Clover
 I'm download MacOs Image usting this [.torrent file](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/%5Bmac-ru.net%5D.t1402.torrent) 
 
 In your torrent app chose to download:
-'''
+```
 ✅ /torrent_root/WIN/10.15
 ✅ /torrent_root/EXE/
 ✅ /torrent_root/FAQ/
-'''
+```
 
 ## Writing MacOs to Flah drive
 
