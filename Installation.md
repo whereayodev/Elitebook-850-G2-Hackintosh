@@ -15,7 +15,7 @@ In your torrent app chose to download:
 ✅ \torrent_root\FAQ\  - is a manual for BDU
 ```
 
-## Writing MacOs to Flah drive
+## Writing MacOs to Flash drive
 
 After you download MacOs in download folder you can find "BDU" app
 Use [this manual](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/PDF/BDU_FAQ_STARCOM_V2.0.pdf
