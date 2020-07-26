@@ -453,12 +453,12 @@
 			<dict>
 				<key>USB</key>
 				<true/>
-				<key>HDMI</key>
-				<true/>
-				<key>ATI</key>
-				<true/>
 				<key>SmBUS</key>
 				<false/>
+				<key>ATI</key>
+				<true/>
+				<key>HDMI</key>
+				<true/>
 				<key>LAN</key>
 				<true/>
 				<key>IntelGFX</key>
@@ -768,7 +768,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>BiosVersion</key>
-		<string>MBP121.88Z.F000.B00.1912161438</string>
+		<string>MBP121.88Z.F000.B00.2004161539</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisAssetTag</key>
@@ -780,19 +780,19 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02638501GUGDVVFB</string>
+		<string>C02516404QXGDVVA8</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
 		<string>MacBookPro12,1</string>
 		<key>SmUUID</key>
-		<string>8CBF866F-EAE0-4925-8502-99F21B3812B1</string>
+		<string>0320B8BA-9FBA-43F2-BB93-47B8D5DB7ACB</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>EfiVersion</key>
-		<string>189.0.0.0.0</string>
+		<string>191.0.0.0.0</string>
 		<key>Memory</key>
 		<dict>
 			<key>Modules</key>
@@ -814,17 +814,13 @@
 					<string>DDR3</string>
 				</dict>
 			</array>
-			<key>Channels</key>
-			<integer>1</integer>
-			<key>SlotCount</key>
-			<integer>2</integer>
 		</dict>
 		<key>SerialNumber</key>
-		<string>C02QF245FVH6</string>
+		<string>C02PL0BKH1DP</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
-		<string>12/16/2019</string>
+		<string>04/16/2020</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
