@@ -37,6 +37,10 @@ My laptop is **HP Elitebook 850 G2** (I5 5300U, HD Graphics 5500, 8GB RAM, 180GB
 Installation is easy, if you use my tutuorial
 [Installation tutorial](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/Installation.md)
 
+# Downloads
+
+**[OSX images for BDU](https://github.com/nkngdev/Elitebook-850-G2-Hackintosh/blob/master/OSX%20Images/%5Bmac-ru.net%5D.t1402.torrent)**
+
 # Kexts
 
 List of kexts
